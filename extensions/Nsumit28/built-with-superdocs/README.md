@@ -7,6 +7,8 @@ that use SuperDocs, and the rules for getting listed in it.
 
 **Gallery:** https://nsumit28.github.io/built-with-superdocs/
 
+![The gallery](docs/gallery-screenshot.png)
+
 ## Add the badge
 
 Paste this into your README:
@@ -140,6 +142,6 @@ only run from the repository root.
 
 ---
 
-MIT licensed. Built by Sumit Negi as a Round 2 candidate submission for
-[@superdocsapp](https://twitter.com/superdocsapp). Not an official SuperDocs
+MIT licensed. Built by **Sumit Negi** for the SuperDocs growth task
+([@superdocsapp](https://twitter.com/superdocsapp)). Not an official SuperDocs
 project.

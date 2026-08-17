@@ -3,6 +3,8 @@
 A measurement of what people are actually stuck on when software has to touch a
 Word document, and a technical note written from the result.
 
+![The published study](docs/study-screenshot.png)
+
 **Read the study:** https://nsumit28.github.io/docx-notes/what-people-are-stuck-on/
 **Read the note it produced:** https://nsumit28.github.io/docx-notes/tracked-changes-lost-in-conversion/
 
